@@ -67,4 +67,4 @@ services:
     restart: always
     depends_on:
       - kafka1
-      - produc
+      - producer
