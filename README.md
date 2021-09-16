@@ -9,6 +9,8 @@ This project creates a kafka producer (with Python and Flask) and a consumer (wi
 
 ![image](https://user-images.githubusercontent.com/13209951/133531475-10511b82-a424-47b9-acd7-074c2b31138f.png)
 
+![image](https://user-images.githubusercontent.com/13209951/133536097-9da7abbd-30c4-4dc8-9866-ba35aa6846d2.png)
+
 
 ### It shows the topic events on kowl panel too
 
