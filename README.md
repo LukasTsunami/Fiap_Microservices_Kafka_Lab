@@ -2,8 +2,14 @@
 
 This project creates a kafka producer and a consumer 
 
-It creates an ui with Swagger UI that receives a "texto" json, send it to kafka and to a teams channel
+![image](https://user-images.githubusercontent.com/13209951/133531922-60f8a2c7-a89d-43de-9022-8f815095c8c5.png)
 
-It shows the topic events on kowl panel too
+
+### It creates an ui with Swagger UI that receives a "texto" json, send it to kafka and to a teams channel
 
 ![image](https://user-images.githubusercontent.com/13209951/133531475-10511b82-a424-47b9-acd7-074c2b31138f.png)
+
+
+### It shows the topic events on kowl panel too
+
+![image](https://user-images.githubusercontent.com/13209951/133531821-191bf5b0-3568-43ae-a6b8-65a758db7e11.png)
