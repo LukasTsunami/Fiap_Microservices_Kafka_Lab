@@ -6,3 +6,4 @@ It creates an ui with Swagger UI that receives a "texto" json, send it to kafka 
 
 It shows the topic events on kowl panel too
 
+![image](https://user-images.githubusercontent.com/13209951/133531475-10511b82-a424-47b9-acd7-074c2b31138f.png)
