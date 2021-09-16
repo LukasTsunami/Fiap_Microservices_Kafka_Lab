@@ -1,6 +1,6 @@
 # Fiap_Microservices_Kafka_Lab
 
-This project creates a kafka producer and a consumer 
+This project creates a kafka producer (with Python and Flask) and a consumer (with Node.js and express)
 
 ![image](https://user-images.githubusercontent.com/13209951/133531922-60f8a2c7-a89d-43de-9022-8f815095c8c5.png)
 
